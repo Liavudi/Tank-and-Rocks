@@ -179,6 +179,7 @@ class Screen:
         #     self.lava.update()
         # if self.get_current_position == False:
         #     self.count = 0
+            
 
         # Prints our Exploding animation in a certain condition
 

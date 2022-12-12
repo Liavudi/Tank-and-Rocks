@@ -32,7 +32,6 @@ def hand_tracker(hand_pos_x, thumb_finger_collide):
                 hand_pos_x.value = 299
             else:
                 hand_pos_x.value = lmList[0][1]
-            # print(lmList[0][0])
 
             x1, y1 = lmList[4][1], lmList[4][2]
             x2, y2 = lmList[8][1], lmList[8][2]
